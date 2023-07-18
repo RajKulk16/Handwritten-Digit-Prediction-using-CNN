@@ -1,1 +1,2 @@
-# MNIST-Digit-Prediction-using-CNN
+Digit Prediction on MNIST data using CNN
+
